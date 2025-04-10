@@ -1,1 +1,1 @@
-# CopytoClipboardwithjQuery
+# Copy to Clipboard with jQuery
